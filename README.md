@@ -37,6 +37,3 @@ A modern, full-stack legal technology platform that connects clients with lawyer
 - **Charts**: Recharts for data visualization
 
 *Making legal services accessible, affordable, and efficient for everyone.*
-
-
-Author - @https://github.com/GaurangDosar
